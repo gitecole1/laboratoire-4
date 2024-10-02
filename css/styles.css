@@ -1,26 +1,15 @@
 
 
 body {
-    background-image: url(../images/cinema.jpg);
-    background-position: top center;
-    background-size: cover;
-    padding-left: 20px;
-    font-family:'Times New Roman', Times, serif;
-}
- ol {
-    list-style-type:upper-latin;
-    color: white;
- }
 
- ul {
-    list-style:disc;
-    color: white;
- }
- dl {
-    color: yellowgreen;
-    font-size: 25px;
- }
- h1 {
+   background-image: url(../images/cinema.jpg);
+   background-position: top center;
+   background-size: cover;
+   padding-left: 20px;
+   font-family:'Times New Roman', Times, serif;
    color: white;
- }
- 
+}
+ul{
+   list-style: disc;
+}
+
