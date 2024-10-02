@@ -3,14 +3,31 @@
 body {
 
    background-image: url(../images/cinema.jpg);
-   background-position: top center;
-   background-size: cover;
-   padding-left: 20px;
-   font-family:'Times New Roman', Times, serif;
-   color: white;
+    background-position: top center;
+    background-size: cover;
+    padding-left: 20px;
+    @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+    font-family: "Roboto" , sans-serif;
+    color: white;
+
 }
 
+ol {
+   list-style-type:upper-alpha;
+   
+}
+
+ul{
+   list-style-type: disc;
+  
+}
 
 .sanspuces {
    list-style: none;
-}
+   color: yellowgreen;
+   font-size: 25px;
+}  
+
+
+
+ 
