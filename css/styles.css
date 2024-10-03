@@ -4,7 +4,7 @@ body {
 
    background-image: url(../images/cinema.jpg);
     background-position: top center;
-    
+    background-size: cover;
     @import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
     font-family: "Roboto" , sans-serif;
     color: white;
@@ -27,7 +27,7 @@ ul{
    color: yellowgreen;
    font-size: 25px;
 
-
+   
 }  
 
 
